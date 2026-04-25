@@ -1,1 +1,4 @@
-Entendendo C, uma linguagem que é simplesmente fenomenal
+# Entendendo C
+## Projeto feito para eu entender essa linguagem
+adquirindo conhecimentos e sabedoria sobre essa **linguagem**
+
