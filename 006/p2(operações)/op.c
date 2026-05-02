@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 int main (void) {
-    // Feito para entender as Operações aritméticas feitas no C;
+    // Feito para entender as Operações aritméticas feitas em C;
     int num1, num2;
     int soma, subtracao, produto,divisao, resto;
 
