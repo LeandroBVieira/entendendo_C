@@ -3,7 +3,7 @@
 #include <math.h>
 
     // Feito para fazer um exercicio de segundo grau usando pow e sqrt da biblioteca math.h
-    // sqrt -> raiz quadrada
+    // sqrt -> raiz quadrada (square root)
     // pow -> potenciação
 
 int main (void) {
