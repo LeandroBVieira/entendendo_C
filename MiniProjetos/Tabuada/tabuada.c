@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include <unistd.h>
 
 int main (void) {
     /*
@@ -19,6 +20,7 @@ int main (void) {
     for (int i = 1; i <= 10; i++)
     {
         printf("%d x %d = %d \n", num_tabuada, i, num_tabuada * i);
+        sleep(1);
     }
 
 }
